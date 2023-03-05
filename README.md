@@ -1,7 +1,8 @@
 # hdwallet-export-key
-export hdwallet key
+export hdwallet the specified path ethereum key
 
 # build
+go get github.com/miguelmota/go-ethereum-hdwallet
 go build
 
 # running
